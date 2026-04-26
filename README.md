@@ -121,7 +121,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Dashboard](<img width="1511" height="842" alt="Dashboard" src="https://github.com/user-attachments/assets/e3f5cae7-a379-4899-b077-7782b035c20a" />)
+![Dashboard]
 
 <img width="1511" height="842" alt="Image" src="https://github.com/user-attachments/assets/2eb21cad-71fb-43f4-8317-a67bc124e466" />
 
