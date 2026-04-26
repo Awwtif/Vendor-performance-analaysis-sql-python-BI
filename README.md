@@ -1,4 +1,4 @@
-<img width="1511" height="842" alt="Screenshot 2026-04-25 141413" src="https://github.com/user-attachments/assets/f450d044-8f7f-46c3-a2e1-7930fa482fcd" />
+
 
 # 🧾 Vendor Performance Analysis – Retail Inventory & Sales
 
@@ -121,7 +121,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](<img width="1511" height="842" alt="Screenshot 2026-04-25 141413" src="https://github.com/user-attachments/assets/65cac026-6574-41e8-9bf8-b5dcf4751f4f" />
+![Vendor Performance Dashboard](<img width="1511" height="842" alt="Screenshot 2026-04-25 141413" src="https://github.com/user-attachments/assets/f450d044-8f7f-46c3-a2e1-7930fa482fcd" />
 )
 
 ---
